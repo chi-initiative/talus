@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "Talus06_29_13"
+        version   = "1.0.0">
+
+	<!-- versionCode is optional and Android only -->
+
+		<name>Talus</name>
+	
+		<description>
+			Talus aids in the creation of a biological profile from human skeletal remains. It is a handy reference tool for use in the classroom, laboratory, or in the field. Human skeletal biologists, forensic anthropologists, and bioarchaeologists will find their most-used methods, tables and equations here! 
+		</description>
+
+		<author href="http://talus.matrix.msu.edu" email="niespod1@msu.edu">
+			Emily Niespodziewanski 
+		</author>
+	
+		<icon src="icon.png" />
+		<gap:splash src="splash.png" />
+	</widget>
